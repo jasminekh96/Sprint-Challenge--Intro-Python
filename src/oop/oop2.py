@@ -9,7 +9,6 @@ class GroundVehicle():
 
     # TODO
 
-
 # Subclass Motorcycle from GroundVehicle.
 #
 # Make it so when you instantiate a Motorcycle, it automatically sets the number
